@@ -30,7 +30,9 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> 
   
 ### 🌊Yeram Kim🌊
-[<img src="https://img.shields.io/badge/GitHubBlog-EA4AAA?style=flat-square&logo=GitHub&logoColor=white"/>](https://yeram522.github.io/)
+[<img src="https://img.shields.io/badge/TechBlog-EA4AAA?style=flat-square&logo=GitHub&logoColor=white"/>](https://yeram522.github.io/)
+[<img src="https://img.shields.io/badge/FormerBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/kamin_s2)
+
   
 [![](https://raw.githubusercontent.com/Yeram522/Yeram522/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Yeram522/Yeram522/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Yeram522/Yeram522/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
