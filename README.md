@@ -1,14 +1,15 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=rect&color=516AAE&height=90&section=header&text=Hi%20there👋&fontSize=30&fontColor=FFFFFF&animation=fadeIn)  
+![header](https://capsule-render.vercel.app/api?type=rect&color=91D587&height=90&section=header&text=Hi%20there👋&fontSize=30&fontColor=FFFFFF&animation=fadeIn)  
   
 <br> 
 
 
-  
-![이미지]()
+<img src= "https://github.com/Yeram522/Yeram522/blob/master/github-profile-header-mimoticon-ver.jpg" width="30%" height="30%">  
 
-안녕하세요!👋 홍익대학교 게임학부 2학년, 클라이언트 프로그래머 지망생입니다.
+<>
+  
+안녕하세요! 홍익대학교 게임학부 학사과정에 재학중인 클라이언트 프로그래머 지망생입니다.
   
 <br> 
   
