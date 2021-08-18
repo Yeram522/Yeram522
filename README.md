@@ -5,9 +5,7 @@
 <br> 
 
 
-<img src= "https://github.com/Yeram522/Yeram522/blob/master/github-profile-header-mimoticon-ver.jpg" width="30%" height="30%">  
-
-<>
+<p>
   
 안녕하세요! 홍익대학교 게임학부 학사과정에 재학중인 클라이언트 프로그래머 지망생입니다.
   
@@ -41,11 +39,21 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> 
 
 <br> 
+  
+<p>
+----
 
+  
 ### 🌊Yeram Kim🌊
+
+
+<p>
+  
+<img src= "https://github.com/Yeram522/Yeram522/blob/master/github-profile-header-mimoticon-ver.jpg" width="30%" height="30%">  
+
 [<img src="https://img.shields.io/badge/TechBlog-EA4AAA?style=flat-square&logo=GitHub&logoColor=white"/>](https://yeram522.github.io/)
 [<img src="https://img.shields.io/badge/FormerBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/kamin_s2)
- 
+  
 <br>
 •
 <br> 
