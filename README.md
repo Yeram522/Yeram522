@@ -4,10 +4,11 @@
   
 <br> 
 
-
+[![](https://raw.githubusercontent.com/Yeram522/Yeram522/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
 <p>
   
-안녕하세요! 게임 소프트웨어 학과 학사과정에 재학중인 클라이언트 프로그래머 지망생입니다.
+
   
 <br> 
   
@@ -46,11 +47,13 @@
   
 ### 🌊Yeram Kim🌊
 
-
+  
 <p>
   
 <img src= "https://github.com/Yeram522/Yeram522/blob/master/github-profile-header-mimoticon-ver.jpg" width="30%" height="30%">  
 
+  안녕하세요! 게임 소프트웨어 학과 학사과정에 재학중인 클라이언트 프로그래머 지망생입니다.
+  
 [<img src="https://img.shields.io/badge/TechBlog-EA4AAA?style=flat-square&logo=GitHub&logoColor=white"/>](https://yeram522.github.io/)
 [<img src="https://img.shields.io/badge/FormerBlog-03C75A?style=flat-square&logo=Naver&logoColor=white"/>](https://blog.naver.com/kamin_s2)
   
@@ -66,8 +69,8 @@
 
 <br>
   
-[![](https://raw.githubusercontent.com/Yeram522/Yeram522/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Yeram522/Yeram522/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Yeram522/Yeram522/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/Yeram522/Yeram522/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Yeram522/Yeram522/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
