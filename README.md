@@ -1,5 +1,8 @@
 <a href="https://github.com/devxb/CommitCombo">
-   <img src="http://commitcombo.com/get?user=Yeram522&theme=Cloud-mini" width = "200" height = "auto"/>  
+   <img src="http://commitcombo.com/get?user=Yeram522&theme=Cloud-mini" width = "200" height = "auto"/> 
+
+[![commitcombo](http://commitcombo.com/get?user={Yeram522}&theme={theme})](https://github.com/devxb/CommitCombo)
+
   
 ## 🌜 소개
 - 🌊Yeram Kim🌊 
