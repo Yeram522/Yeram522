@@ -1,7 +1,7 @@
 <a href="https://github.com/devxb/CommitCombo">
    <img src="http://commitcombo.com/get?user=Yeram522&theme=Cloud-mini" width = "200" height = "auto"/> 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddlf101)](https://solved.ac/yuu_ta)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuu_ta)](https://solved.ac/yuu_ta)
   
 ## 🌜 소개
 - 🌊Yeram Kim🌊 
