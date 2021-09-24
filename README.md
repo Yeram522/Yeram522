@@ -1,6 +1,5 @@
 <a href="https://github.com/devxb/CommitCombo">
-   <img src="http://commitcombo.com/get?user=Yeram522&theme=Cloud-mini" width = "200" height = "auto"/>  
-
+   <img src="http://commitcombo.com/get?user=Yeram522&theme=Cloud-mini" width = "200" height = "auto"/>   
 
   
 ## 🌜 소개
@@ -17,6 +16,8 @@
 <p>
 
 [![Marey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeram522&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeram522&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuu_ta)](https://solved.ac/yuu_ta)
 
