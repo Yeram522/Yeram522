@@ -1,8 +1,9 @@
 <a href="https://github.com/devxb/CommitCombo">
    <img src="http://commitcombo.com/get?user=Yeram522&theme=Cloud-mini" width = "200" height = "auto"/>   
 
-  
-## 🌜 소개
+
+## 🌜 소개     
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeram522&count_bg=%2315508E&title_bg=%23555555&icon=github.svg&icon_color=%23C4DDE7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - 🌊Yeram Kim🌊 
 - 홍익대학교 게임학부 게임소프트웨어학과 2학년 재학중😼
 - 게임 프로그래머 지망😊  
