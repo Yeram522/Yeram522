@@ -16,13 +16,7 @@
 
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeram522&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   
-[![Marey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeram522&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-   
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuu_ta)](https://solved.ac/yuu_ta)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeram522&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuu_ta)](https://solved.ac/yuu_ta)
 
 
 
