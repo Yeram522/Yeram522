@@ -1,18 +1,42 @@
 ## 🌜 소개     
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeram522&count_bg=%2315508E&title_bg=%23555555&icon=github.svg&icon_color=%23C4DDE7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - 🌊Yeram Kim🌊 
 - 홍익대학교 게임학부 게임소프트웨어학과 졸업😼
-- 클라이언트 프로그래머 지망😊  
+- **설계와 보안을 고려하며, 주도적으로 문제를 해결하려 노력하는 신입 백엔드 개발자입니다.** 😊
+
+## 🌜 교육
+- 크래프톤 정글 6기 수료
+- 백엔드 개발자 과정 수강 중
+
+## 🌜 자격증
+- SQLD 취득 ✅
+- 정보처리기사 (2024년 9월 최종결과 예정) 📝
+- 리눅스마스터 1급 준비 중 📚  
 
 <p>
-  
-## 🌜 공부 하는 것들..
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/> 
+## 🌜 기술 스택
+
+### Backend
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
+### API & Architecture
+<img src="https://img.shields.io/badge/REST API-FF6B35?style=flat-square&logo=Postman&logoColor=white"/>
+
+### Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+
+### Infrastructure
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+
+### Tools & Others
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
+### Languages
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
+### Additional Experience
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/DirectX11-0078D4?style=flat-square&logo=Microsoft&logoColor=white"/>
 
 <p>
    
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuu_ta)](https://solved.ac/yuu_ta)
-
-
-
